@@ -31,7 +31,7 @@ function preload(){
 
 //to create sprites
 function setup(){
-  createCanvas(1200,800);
+  createCanvas(700,300);
   
   trex = createSprite(40,170,20,50);
   //adding animation to trex
